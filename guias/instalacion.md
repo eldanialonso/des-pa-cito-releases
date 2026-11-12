@@ -11,22 +11,28 @@ guarda en tu carpeta **Descargas**.
 
 ## 2. Abrí el instalador
 
-Hacé doble clic en el archivo que descargaste. La app se instala sola, sin preguntas, y se abre al
-terminar. Deja un acceso directo **des-pa-cito** en el escritorio y en el menú Inicio.
+Hacé doble clic en el archivo que descargaste. La primera vez, Windows muestra un aviso (ver abajo).
+Después la app se instala sola, sin preguntas, y se abre al terminar:
+
+![Instalación de des-pa-cito: "Instalando, espera un momento..."](img/instalacion-instalando.png)
+
+Deja un acceso directo **des-pa-cito** en el escritorio y en el menú Inicio.
 
 ## Si Windows dice "Windows protegió su PC"
 
-La primera vez, Windows puede mostrar un cartel azul que dice **"Windows protegió su PC"**. Aparece
-porque la app todavía no tiene una firma digital (cuesta dinero y por ahora no la tiene), no porque
-tenga un problema.
+La primera vez, Windows muestra un cartel azul que dice **"Windows protegió su PC"**. Aparece porque la
+app todavía no tiene una firma digital (cuesta dinero y por ahora no la tiene), no porque tenga un
+problema.
 
-1. Tocá **"Más información"** (es un link, abajo del texto).
-2. Aparece el nombre del archivo y un botón nuevo: tocá **"Ejecutar de todos modos"**.
+1. Tocá **"Más información"** (es un link, abajo del texto). **No toques "No ejecutar"**: eso cancela la
+   instalación.
 
-> 📷 *Captura pendiente:* el cartel "Windows protegió su PC". Se agrega con la primera versión
-> publicada (sólo aparece con archivos descargados de internet).
+   ![Cartel "Windows protegió su PC" con el link "Más información"](img/instalacion-smartscreen-aviso.png)
 
-> 📷 *Captura pendiente:* el mismo cartel con el botón "Ejecutar de todos modos".
+2. Aparece el nombre del archivo (`des-pa-cito-Setup-…exe`), "Editor desconocido" y un botón nuevo: tocá
+   **"Ejecutar de todas formas"**.
+
+   ![El mismo cartel con el botón "Ejecutar de todas formas"](img/instalacion-smartscreen-ejecutar.png)
 
 Windows lo pregunta una sola vez: después la app se abre normalmente.
 

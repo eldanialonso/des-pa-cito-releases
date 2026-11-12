@@ -5,7 +5,7 @@ Si algo no anda, buscá acá tu caso. Cada respuesta es corta y dice qué hacer.
 ## Al instalar, Windows dice "Windows protegió su PC"
 
 Es normal: la app todavía no tiene una firma digital (cuesta dinero y por ahora no la tiene). Tocá
-**"Más información"** y después **"Ejecutar de todos modos"**. Más detalles (y qué hacer si lo bloquea el
+**"Más información"** y después **"Ejecutar de todas formas"**. Más detalles (y qué hacer si lo bloquea el
 "Control inteligente de aplicaciones") en la [guía de instalación](instalacion.md).
 
 ## El video no se reproduce dentro de la app

@@ -14,7 +14,7 @@ En **Assets**, hacé clic en **des-pa-cito-Setup-** seguido del número de versi
 abrilo con doble clic. Se instala en un minuto, sin permisos de administrador, y se actualiza sola.
 
 Si Windows muestra **"Windows protegió su PC"**, hacé clic en **Más información** y después en
-**Ejecutar de todos modos**. Aparece porque la app todavía no tiene firma digital. Más detalles en la
+**Ejecutar de todas formas**. Aparece porque la app todavía no tiene firma digital. Más detalles en la
 [guía de instalación](guias/instalacion.md).
 
 ## Guías

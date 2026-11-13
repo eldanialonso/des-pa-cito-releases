@@ -77,17 +77,33 @@ Si la IA tarda mucho mientras se prepara la práctica, tocá **"Seguir sin IA"**
 - Con **subtítulos automáticos** de YouTube, una pausa puede caer un poco antes o después.
 - Probá otro **largo de fragmento**, o elegí **"Personalizado"** y poné el mínimo y el máximo de
   segundos que quieras.
-- Si un fragmento se cortó antes de tiempo, tocá **"Repetir"** (o la tecla R) para escucharlo de nuevo.
+- Si un fragmento se cortó antes de tiempo, pausá tu turno (**"Pausar"** o la tecla P) y tocá
+  **"Repetir"** (o la tecla R) para escucharlo de nuevo. Mientras hablás, "Repetir" está apagado.
 
 ## No se escuchan los sonidos del turno
 
 Los sonidos están **apagados** al principio. Prendelos en **Ajustes → Práctica → "Sonido suave al
-empezar y al terminar tu turno"** y tocá **"Probar sonido"**. Si igual no se oye, revisá el volumen de
-Windows. El volumen del video se cambia en el propio video.
+empezar y al terminar tu turno"** (es un interruptor) y tocá **"Probar sonido de inicio"**. Si igual no
+se oye, revisá el volumen de Windows. El volumen del video se cambia en el propio video.
+
+## "Grabar mis turnos" se vuelve a apagar
+
+Al prender **"Grabar mis turnos"**, la app prueba el micrófono. Si no anda, la opción se apaga sola y la app
+te dice por qué, con el botón **"Abrir la configuración del micrófono de Windows"**:
+
+- **Windows no deja usar el micrófono:** en **Configuración → Privacidad y seguridad → Micrófono**, prendé
+  **"Acceso al micrófono"** y **"Permitir que las aplicaciones de escritorio accedan al micrófono"**.
+- **No hay micrófono:** conectá uno.
+- **Está ocupado o no responde:** cerrá las otras aplicaciones que lo estén usando.
+
+Después volvé a prender la opción. Más detalles: [Grabar tus turnos](primeros-pasos.md#grabar-tus-turnos).
+
+¿No se escucha tu grabación? Revisá el volumen de Windows: la app la pasa por los mismos parlantes que el
+video.
 
 ## Los atajos de teclado no responden
 
-- Los atajos (Espacio, P, R, flechas, + y T) funcionan en la pantalla de práctica, salvo mientras
+- Los atajos (Espacio, P, R, flechas, +, T, G y Esc) funcionan en la pantalla de práctica, salvo mientras
   escribís en un casillero.
 - Si hiciste clic en el video, la app recupera el teclado en un momento. Si no, hacé clic en cualquier
   parte fuera del video.

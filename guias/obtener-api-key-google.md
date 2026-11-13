@@ -36,9 +36,9 @@ tengas configurado o, si no hay, pausas automáticas básicas.
 **¿Es segura?** La clave queda guardada cifrada en tu computadora. No la compartas con nadie: es como una
 contraseña.
 
-**¿Qué datos se envían?** Sólo el texto de los subtítulos del video que elegiste. De tus propios archivos,
-nada, salvo que le digas que sí a la app cuando te pregunta si puede usar la IA para sus pausas (o lo
-prendas en **Ajustes → Archivos propios**). En el plan gratuito, Google puede usar esos datos para mejorar sus servicios.
+**¿Qué datos se envían?** Sólo el texto de los subtítulos del video que elegiste, para las pausas y el
+glosario. De tus propios archivos, nada, salvo que le digas que sí a la app cuando te pregunta si puede usar
+la IA para sus pausas y su glosario (o lo prendas en **Ajustes → Archivos propios**). En el plan gratuito, Google puede usar esos datos para mejorar sus servicios.
 
 **¿Y si pego la clave de otro proveedor?** La app te avisa antes de probarla:
 

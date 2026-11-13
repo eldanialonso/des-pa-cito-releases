@@ -4,7 +4,8 @@
 
 **des-pa-cito** es una app gratuita para Windows para practicar **interpretación consecutiva** con
 cualquier video de YouTube o con tus propios audios y videos. Pegás el link (o elegís un archivo), la app
-pausa sola al final de cada idea, te da tiempo para interpretar y sigue sola.
+pausa sola al final de cada idea, te da tiempo para interpretar y sigue sola. Con IA, también te arma
+un glosario de los términos clave del video, y si querés graba tus turnos para que te escuches.
 
 ## Descargar
 
@@ -22,7 +23,7 @@ Si Windows muestra **"Windows protegió su PC"**, hacé clic en **Más informaci
 1. [Instalación y actualizaciones](guias/instalacion.md): descargar, el aviso "Windows protegió su PC",
    actualizaciones automáticas y cómo desinstalar.
 2. [Primeros pasos](guias/primeros-pasos.md): pegar un link o elegir un archivo, elegir el largo de los
-   fragmentos, practicar y atajos de teclado.
+   fragmentos, practicar, grabar tus turnos, el glosario y atajos de teclado.
 3. [Cómo obtener tu clave gratuita de Google](guias/obtener-api-key-google.md), para que la inteligencia
    artificial elija dónde pausar (opcional: sin clave, la app hace cortes automáticos).
 4. [Proveedores de respaldo](guias/proveedores-de-respaldo.md) (opcional).

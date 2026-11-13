@@ -58,7 +58,8 @@ La app te ofrece crear tu **clave gratuita de Google** para que las pausas caiga
 ## Actualizaciones
 
 No tenés que hacer nada. La app busca versiones nuevas sola (al abrirse y cada 6 horas) y las descarga
-sin interrumpirte. Cuando hay una lista, arriba aparece un aviso:
+sin interrumpirte. Cuando hay una lista, aparece un aviso arriba a la derecha (en una línea propia, si la
+ventana es angosta), dentro del encabezado de la pantalla de inicio, de Ajustes o de la Ayuda:
 
 ![Aviso de actualización lista](img/actualizacion-lista.png)
 

@@ -5,12 +5,14 @@ quede sin inteligencia artificial**, podés sumar claves de otros proveedores gr
 límite o falla, la app **pasa sola** al siguiente. Podés cambiar el orden en **Ajustes → Inteligencia
 artificial**.
 
-Cada proveedor tiene su mini asistente dentro de la app (en el primer inicio y en **⚙ Ajustes →
-Inteligencia artificial**), con los pasos en pantalla y un botón que abre la página oficial:
+Cada proveedor tiene su mini asistente dentro de la app (en el primer inicio, a la derecha de la clave de
+Google, y en **⚙ Ajustes → Inteligencia artificial**), con los pasos en pantalla y un botón que abre la
+página oficial:
 
 ![Mini asistente de Groq dentro de la app](img/asistente-respaldo-groq.png)
 
-En **⚙ Ajustes** ves todos tus proveedores, su estado y el orden en que se usan:
+En **⚙ Ajustes**, en **"Inteligencia artificial"** (a la derecha, con la ventana ancha), ves todos tus
+proveedores, su estado y el orden en que se usan:
 
 ![Ajustes: lista de proveedores](img/ajustes.png)
 
